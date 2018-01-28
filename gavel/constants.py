@@ -41,7 +41,7 @@ magic link to the judging system.
 
 DO NOT SHARE this email with others, as it contains your personal magic link.
 
-To access the system, visit http://tamuhack2018judging-herokuapp.com{link}.
+To access the system, visit http://th18-gavel.herokuapp.com{link}.
 
 Once you're in, please take the time to read the welcome message and
 instructions before continuing.
